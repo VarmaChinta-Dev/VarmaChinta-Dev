@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi 👋, I'm Siva Narasimha Varma Chinta
 
-<!--
-**VarmaChinta-Dev/VarmaChinta-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech ECE Graduate  
+💻 Aspiring Software Engineer  
+🐍 Python Developer  
+📊 Data Analytics Enthusiast  
+🤖 Machine Learning Learner  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+- Python
+- SQL
+- Power BI
+- Tableau
+- Jupyter Notebook
+- Data Structures & Algorithms
+
+---
+
+## 📌 Projects
+
+### 🧠 Parkinson’s Disease Prediction
+- Developed Machine Learning model using Python
+- Achieved 95% prediction accuracy
+- Used biomedical voice measurement dataset
+
+### 📊 BMW Sales Dashboard
+- Built interactive Power BI dashboard
+- Analyzed BMW sales from 2010–2024
+- Visualized KPIs and yearly sales trends
+
+---
+
+## 🏆 Certifications
+- Python Web Developer – Infosys Springboard
+- SQL & Tableau Certification
+- Data Analytics Certification
+
+---
+
+## 📫 Contact Me
+📧 Email: varmachinta999@gmail.com
+
+🌐 LinkedIn: linkedin.com/in/siva-narasimha-varma-chinta-14110a25b
